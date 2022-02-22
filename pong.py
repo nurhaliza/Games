@@ -13,3 +13,4 @@ paddleA.shape("square")
 paddleA.color("grey")
 paddleA.penup()
 # paddle (b)
+#checking
